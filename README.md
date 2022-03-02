@@ -13,7 +13,7 @@
 For more detail, please visit <a href="https://kohaku.xin">kohaku.xin</a>
 
 - 🔭 I’m currently working on Vue,java and python
-- 🌱 I’m currently learning py and ML
+- 🌱 I’m currently learning Python and Golang
 - 💬 Ask me about anything!
 - 📫 How to reach me: i@kohaku.xin
 <!-- - 👯 I’m looking to collaborate on ... -->
