@@ -14,7 +14,7 @@
 For more detail, please visit <a href="https://kohaku.xin">kohaku.xin</a>
 
 - 🔭 I’m currently working on ROS, C++, java and python
-- 🌱 I’m currently a postgraduate student on UOB and doing research on autonomous exploration.
+- 🌱 I’m currently a PhD student on Central South University and doing research on robotic tactile and VTLA.
 - 💬 Ask me about anything!
 - 📫 How to reach me: i@kohaku.xin
 <!-- - 👯 I’m looking to collaborate on ... -->
